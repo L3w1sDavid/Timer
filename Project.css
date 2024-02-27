@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(Neon\ Green.1.project.webp);
+    background-size: cover;
+    color: aquamarine;
+    text-align: center;
+    align-items: center;
+  }
+  
+  .countdown {
+    
+    margin-top: 100px;
+    
+  }
+   
+  h1 {
+    font-size: 36px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    align-items: center;
+  
+  }
+  
+  #timer {
+    font-size: 48px;
+    background-color:black;
+    padding: 10px;
+    margin-left: 450px;
+    margin-right: 550px;
+    border-radius: 20px;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    
+    color: green;
+  }
+@media screen and (max-width: 800px){
+    #timer {
+        font-size: 48px;
+        margin-left: 100px;
+        padding: 50px;
+        flex-direction: column;
+        margin-right: 50px;
+
+    }
+}
+.container {
+     width: 100%;
+     max-width: fit-content;
+
+
+
+}
+h2{
+  font-family: 'Times New Roman', Times, serif;
+
+
+
+}

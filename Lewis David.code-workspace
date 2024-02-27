@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Lewis David"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Projects"
+	}
+}
